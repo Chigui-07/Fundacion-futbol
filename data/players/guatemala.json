@@ -41,37 +41,405 @@
       "published_at": "2026-11",
       "url": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-los-equipos-con-mas-bajas-por-la-seleccion-antes-del-cierre-del-apertura-2026-breaking/",
       "supports": "Referencias de club para varios convocados en noviembre de 2026."
+    },
+    {
+      "id": "S4",
+      "publisher": "Prensa Libre",
+      "title": "Guatemala anuncia sus convocados para enfrentar a Canadá en la Liga de Naciones",
+      "published_at": "2026-11",
+      "url": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-anuncia-sus-convocados-para-enfrentar-a-canada-en-la-liga-de-naciones-breaking/",
+      "supports": "Convocatoria publicada en noviembre de 2026; confirma cuatro futbolistas adicionales y sus nombres completos."
     }
   ],
   "players": [
-    {"id":"GT-0001","full_name":"Luis José Morán Varela","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Antigua GFC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0002","full_name":"José Mario Rosales Marroquín","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Antigua GFC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0003","full_name":"Óscar Antonio Castellanos Santos","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Antigua GFC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0004","full_name":"William Jehú Fajardo Montenegro","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Antigua GFC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0005","full_name":"César Raúl Calderón Hernández","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CSD Municipal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0006","full_name":"Carlos Salvador Pablo Renato Estrada Santos","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CSD Municipal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0007","full_name":"Jonathan Francisco Franco González","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CSD Municipal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0008","full_name":"José Alfredo Morales Concuá","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CSD Municipal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0009","full_name":"Rudy Josué Muñoz Boteo","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CSD Municipal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0010","full_name":"Kenderson Alessandro Navarro Hernández","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CSD Municipal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0011","full_name":"Nicolás Samayoa Pacheco","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CSD Municipal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0012","full_name":"Kevin Emanuel Ruiz García","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Xelajú MC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0013","full_name":"Jorge Eduardo Aparicio Grijalva","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Xelajú MC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0014","full_name":"Allen José Yanes Pinto","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Deportivo Mixco","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0015","full_name":"Kevin Estuardo Ramírez Sigüenza","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Deportivo Malacateco","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0016","full_name":"Stheven Adán Robles Ruiz","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Comunicaciones FC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0017","full_name":"Aarón Joseph Herrera","nationality":"Guatemala","birth_date":null,"real_world_club_reference":null,"universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0018","full_name":"Nicholas George Hagen Godoy","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Columbus Crew","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0019","full_name":"Óscar Alexander Santis Cayax","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Brunei DPMM FC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0020","full_name":"Arquímides Rafael Zacarías Ordóñez","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"FC Tulsa","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0021","full_name":"Matthew Dominic Evans Wolff","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"LAFC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0022","full_name":"Olger Escobar","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"CF Montréal","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0023","full_name":"Rubio Yovani Méndez Rubín","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"El Paso Locomotive FC","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0024","full_name":"Darwin Gregorio Lom Moscoso","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"The Strongest","universe_start_club":null,"source_ids":["S1","S2"]},
-    {"id":"GT-0025","full_name":"Rodrigo Saravia Samayoa","nationality":"Guatemala","birth_date":null,"real_world_club_reference":null,"universe_start_club":null,"source_ids":["S1"]},
-    {"id":"GT-0026","full_name":"Antonio de Jesús López Amenábar","nationality":"Guatemala","birth_date":null,"real_world_club_reference":null,"universe_start_club":null,"source_ids":["S1"]},
-    {"id":"GT-0027","full_name":"José Ramón Bolaños Boburg","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Deportivo Mixco","universe_start_club":null,"source_ids":["S1","S3"]},
-    {"id":"GT-0028","full_name":"Erick Diego Alejandro Lemus de Paz","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Comunicaciones FC","universe_start_club":null,"source_ids":["S1","S3"]},
-    {"id":"GT-0029","full_name":"Héctor Alejandro Morales Muñoz","nationality":"Guatemala","birth_date":null,"real_world_club_reference":"Aurora FC","universe_start_club":null,"source_ids":["S1"]}
+    {
+      "id": "GT-0001",
+      "full_name": "Luis José Morán Varela",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Antigua GFC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0002",
+      "full_name": "José Mario Rosales Marroquín",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Antigua GFC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0003",
+      "full_name": "Óscar Antonio Castellanos Santos",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Antigua GFC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0004",
+      "full_name": "William Jehú Fajardo Montenegro",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Antigua GFC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0005",
+      "full_name": "César Raúl Calderón Hernández",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0006",
+      "full_name": "Carlos Salvador Pablo Renato Estrada Santos",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0007",
+      "full_name": "Jonathan Francisco Franco González",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0008",
+      "full_name": "José Alfredo Morales Concuá",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0009",
+      "full_name": "Rudy Josué Muñoz Boteo",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0010",
+      "full_name": "Kenderson Alessandro Navarro Hernández",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0011",
+      "full_name": "Nicolás Samayoa Pacheco",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0012",
+      "full_name": "Kevin Emanuel Ruiz García",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Xelajú MC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0013",
+      "full_name": "Jorge Eduardo Aparicio Grijalva",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Xelajú MC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0014",
+      "full_name": "Allen José Yanes Pinto",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Deportivo Mixco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0015",
+      "full_name": "Kevin Estuardo Ramírez Sigüenza",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Deportivo Malacateco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0016",
+      "full_name": "Stheven Adán Robles Ruiz",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0017",
+      "full_name": "Aarón Joseph Herrera",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0018",
+      "full_name": "Nicholas George Hagen Godoy",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Columbus Crew",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0019",
+      "full_name": "Óscar Alexander Santis Cayax",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Brunei DPMM FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0020",
+      "full_name": "Arquímides Rafael Zacarías Ordóñez",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "FC Tulsa",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0021",
+      "full_name": "Matthew Dominic Evans Wolff",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "LAFC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0022",
+      "full_name": "Olger Escobar",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CF Montréal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0023",
+      "full_name": "Rubio Yovani Méndez Rubín",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "El Paso Locomotive FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0024",
+      "full_name": "Darwin Gregorio Lom Moscoso",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "The Strongest",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GT-0025",
+      "full_name": "Rodrigo Saravia Samayoa",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "GT-0026",
+      "full_name": "Antonio de Jesús López Amenábar",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "GT-0027",
+      "full_name": "José Ramón Bolaños Boburg",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Deportivo Mixco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "GT-0028",
+      "full_name": "Erick Diego Alejandro Lemus de Paz",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "GT-0029",
+      "full_name": "Héctor Alejandro Morales Muñoz",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Aurora FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "GT-0030",
+      "full_name": "José Agustín Ardón Castellanos",
+      "real_world_club_reference": "Antigua GFC",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "id": "GT-0031",
+      "full_name": "Néstor Ariel Cabrera Gabriel",
+      "real_world_club_reference": "New York Cosmos",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "id": "GT-0032",
+      "full_name": "Arián Estuardo Recinos Vega",
+      "real_world_club_reference": "Penn State",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S4"
+      ]
+    },
+    {
+      "id": "GT-0033",
+      "full_name": "Jefry Leonardo Bantes Rodríguez",
+      "real_world_club_reference": "CSD Municipal",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S4"
+      ]
+    }
   ]
 }
