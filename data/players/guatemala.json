@@ -15,7 +15,8 @@
     "La convocatoria de octubre de 2026 fue un microciclo y no debe interpretarse como una plantilla de club ni como una convocatoria final de partido.",
     "real_world_club_reference es únicamente una referencia externa y nunca asigna un club al futbolista dentro del universo.",
     "Las fechas de nacimiento, nacionalidad deportiva individual, posiciones de referencia y clubes actuales deben verificarse jugador por jugador antes de completar esos campos.",
-    "No se han inventado valoraciones, habilidades, niveles ni estadísticas del juego."
+    "No se han inventado valoraciones, habilidades, niveles ni estadísticas del juego.",
+    "Los registros incorporados desde Guafutbol (S8) proceden de perfiles de un directorio deportivo no federativo; deben corroborarse con clubes o FEDEFUT. No se importaron valoraciones, estadísticas ni datos físicos del directorio."
   ],
   "sources": [
     {
@@ -73,6 +74,14 @@
       "published_at": "2026-11-17",
       "url": "https://fedefutguate.gt/2026/11/17/seleccion-sub-17-masculina-convocatoria-microciclo-no-3/",
       "supports": "Convocatoria oficial Sub-20 de 26 futbolistas; la imagen oficial incluye referencias de clubes para cada convocado."
+    },
+    {
+      "id": "S8",
+      "publisher": "Guafutbol.com",
+      "title": "Directorio de jugadores – perfiles individuales de Primera y Segunda División",
+      "published_at": null,
+      "url": "https://guafutbol.com/jugadores/",
+      "supports": "Perfiles públicos que muestran nombre, club de referencia, división y bandera de Guatemala. Fuente de directorio no federativa; nombres y clubes se consideran referencias preliminares y requieren corroboración con el club o la federación. No se importan valoraciones ni estadísticas del sitio."
     }
   ],
   "players": [
@@ -1347,6 +1356,61 @@
       "universe_start_club": null,
       "source_ids": [
         "S7"
+      ]
+    },
+    {
+      "id": "GT-0104",
+      "full_name": "Etson Daniel Giron Alvizures",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Deportivo Fraijanes",
+      "universe_start_club": null,
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "id": "GT-0105",
+      "full_name": "Keneth Steven Blanco Marroquin",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "San Luis FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "id": "GT-0106",
+      "full_name": "David Alexander Pineda Mendoza",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Champ’s Guatemala",
+      "universe_start_club": null,
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "id": "GT-0107",
+      "full_name": "Oscar Galicia",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "Jutiapa",
+      "universe_start_club": null,
+      "source_ids": [
+        "S8"
+      ]
+    },
+    {
+      "id": "GT-0108",
+      "full_name": "Julio Eliceo Cano Perez",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "real_world_club_reference": "CSD Sayaxché",
+      "universe_start_club": null,
+      "source_ids": [
+        "S8"
       ]
     }
   ]
