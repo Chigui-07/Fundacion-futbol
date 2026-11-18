@@ -49,6 +49,22 @@
       "published_at": "2026-11",
       "url": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-anuncia-sus-convocados-para-enfrentar-a-canada-en-la-liga-de-naciones-breaking/",
       "supports": "Convocatoria publicada en noviembre de 2026; confirma cuatro futbolistas adicionales y sus nombres completos."
+    },
+    {
+      "id": "S5",
+      "publisher": "Prensa Libre",
+      "title": "Convocatoria de Guatemala Sub-20: los 21 jugadores llamados para el Premundial de Concacaf",
+      "published_at": "2026-07-22",
+      "url": "https://www.prensalibre.com/deportes/futbol-nacional/convocatoria-de-guatemala-sub-20-los-21-jugadores-llamados-por-sebastian-bini-para-el-premundial-de-concacaf/",
+      "supports": "Lista publicada de 21 futbolistas convocados a la Selección Sub-20; los nombres se conservan tal como fueron publicados cuando no se dispone de apellidos completos."
+    },
+    {
+      "id": "S6",
+      "publisher": "La Red 106.1 FM",
+      "title": "Comunicaciones y Municipal dominan convocatoria de la Sub-17",
+      "published_at": "2026-09-06",
+      "url": "https://www.lared1061.com/posts/comunicaciones-y-municipal-dominan-convocatoria-de-la-sub-17",
+      "supports": "Lista de 23 futbolistas convocados al microciclo Sub-17 de septiembre de 2026, con clubes de referencia."
     }
   ],
   "players": [
@@ -439,6 +455,578 @@
       "universe_start_club": null,
       "source_ids": [
         "S4"
+      ]
+    },
+    {
+      "id": "GT-0034",
+      "full_name": "Álvaro Medrano",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0035",
+      "full_name": "Rogelio Barrera",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0036",
+      "full_name": "Allan Fernández",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0037",
+      "full_name": "Jorge González",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0038",
+      "full_name": "Bryan Guerra",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0039",
+      "full_name": "Gary Pérez",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0040",
+      "full_name": "Paolo Arreaga",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0041",
+      "full_name": "Emir Ponciano",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0042",
+      "full_name": "Jeffrey Interiano",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0043",
+      "full_name": "Omar Bolaños",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0044",
+      "full_name": "Steven Rivas",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0045",
+      "full_name": "Pablo Arias",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0046",
+      "full_name": "Mayron González",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0047",
+      "full_name": "Justin Pacay",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0048",
+      "full_name": "Selvin Sagastume",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0049",
+      "full_name": "Ricardo Márquez",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0050",
+      "full_name": "Patrick Arana",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0051",
+      "full_name": "Yordi Aguilar",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0052",
+      "full_name": "Óscar de León",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0053",
+      "full_name": "Marvin Ávila",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0054",
+      "full_name": "Julio Ramos",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": null,
+      "universe_start_club": null,
+      "source_ids": [
+        "S5"
+      ]
+    },
+    {
+      "id": "GT-0055",
+      "full_name": "Guillermo Quiñones",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0056",
+      "full_name": "Cristofer Alexande Pacay Camey",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0057",
+      "full_name": "René Aguilar Contreras",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0058",
+      "full_name": "Claudio André Albizuris",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0059",
+      "full_name": "Iñaki Antonio Martínez Escobar",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0060",
+      "full_name": "David Alfredo Quinteros Marroquín",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0061",
+      "full_name": "Josué Sergio Barrios Argueta",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0062",
+      "full_name": "Jorge Alexander Chonay Mejía",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0063",
+      "full_name": "José Daniel Contreras Morales",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0064",
+      "full_name": "Carlos D’Alessandro Zelada Sandoval",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0065",
+      "full_name": "Luis Manuel De Coto",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0066",
+      "full_name": "Dereck David Alvarado Ortiz",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0067",
+      "full_name": "Luis Adrian López",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0068",
+      "full_name": "Javier Sebastian Gálvez",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0069",
+      "full_name": "Cesar Alejandro Carrera Azurdia",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0070",
+      "full_name": "Ian Fabian Solares Villegas",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0071",
+      "full_name": "Nicolas Mérida Monterroso",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Deportivo Mixco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0072",
+      "full_name": "Juan Diego Figueroa Cartagena",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Deportivo Mixco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0073",
+      "full_name": "Jordin Aldair Valladares Ávila",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Deportivo Iztapa",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0074",
+      "full_name": "Gustavo Adolfo Morales",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Deportivo Iztapa",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0075",
+      "full_name": "Anderson Neymar Alaya Villegas",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Deportivo Iztapa",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0076",
+      "full_name": "Carlos David Cotton",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Deportivo Malacateco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "GT-0077",
+      "full_name": "Nicolas De Jesús Torres",
+      "name_completeness": "nombre publicado; apellidos completos pendientes de verificación",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U17",
+      "real_world_club_reference": "Juventus Academy Guatemala",
+      "universe_start_club": null,
+      "source_ids": [
+        "S6"
       ]
     }
   ]
