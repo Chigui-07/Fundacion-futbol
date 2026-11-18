@@ -3,7 +3,7 @@
   "country": "Guatemala",
   "country_code": "GT",
   "catalog_status": "initial",
-  "data_checked_at": "2026-11-17",
+  "data_checked_at": "2026-11-18",
   "selection_rule": {
     "universe_start_club": null,
     "assignment": "Los futbolistas se seleccionan aleatoriamente de todo el catálogo disponible, sin importar su club real de referencia.",
@@ -65,6 +65,14 @@
       "published_at": "2026-09-06",
       "url": "https://www.lared1061.com/posts/comunicaciones-y-municipal-dominan-convocatoria-de-la-sub-17",
       "supports": "Lista de 23 futbolistas convocados al microciclo Sub-17 de septiembre de 2026, con clubes de referencia."
+    },
+    {
+      "id": "S7",
+      "publisher": "Federación Nacional de Fútbol de Guatemala (FFG)",
+      "title": "Selección Sub-20 Masculina – Convocatoria No. 03, microciclo del 17 al 19 de noviembre de 2026",
+      "published_at": "2026-11-17",
+      "url": "https://fedefutguate.gt/2026/11/17/seleccion-sub-17-masculina-convocatoria-microciclo-no-3/",
+      "supports": "Convocatoria oficial Sub-20 de 26 futbolistas; la imagen oficial incluye referencias de clubes para cada convocado."
     }
   ],
   "players": [
@@ -1027,6 +1035,318 @@
       "universe_start_club": null,
       "source_ids": [
         "S6"
+      ]
+    },
+    {
+      "id": "GT-0078",
+      "full_name": "Alex Daniel Pinzón Sandoval",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Xelajú MC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0079",
+      "full_name": "Manuel Antonio Paiz Pedrez",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0080",
+      "full_name": "Maicol Alexander Aroche",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Guastatoya",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0081",
+      "full_name": "Jeferson David Farfán Azañón",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Boca del Monte",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0082",
+      "full_name": "Jeremías Mayorga Ramírez",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Amatitlán",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0083",
+      "full_name": "Francisco Velásquez",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Tacaná",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0084",
+      "full_name": "Dioshwa Gimmaniol-y López Vivuar",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Deportivo Mixco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0085",
+      "full_name": "Anthony Martín Pinto",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Achuapa",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0086",
+      "full_name": "Andony Alexandre Jiménez Mijangos",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0087",
+      "full_name": "Julio Alberto Sandoval Archila",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Cobán Imperial",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0088",
+      "full_name": "Juan Sebastián Ruiz Gaitán",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Deportivo Mixco",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0089",
+      "full_name": "Cristian Rodrigo López Sandoval",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Marquense",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0090",
+      "full_name": "Sebastián Sagastume Asturias",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0091",
+      "full_name": "Víctor Melgar Castro",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Chiquimulilla",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0092",
+      "full_name": "Hensel Abdiel Chacón Yoc",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "CSD Municipal",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0093",
+      "full_name": "Jeffry Bernardo González Ramírez",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Coatepeque",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0094",
+      "full_name": "Marcos Davis Arrango Samayoa",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Xelajú MC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0095",
+      "full_name": "Yadiel Hernández Hernández",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Xelajú MC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0096",
+      "full_name": "Danilo Segura",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Puerto de San José",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0097",
+      "full_name": "Jared Emanuel Franco Cruz",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "San Benito",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0098",
+      "full_name": "Ángel Eliú García López",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Aurora FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0099",
+      "full_name": "Matías Sebastián Micheo Carías",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Comunicaciones FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0100",
+      "full_name": "Denis José Herrera Morales",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Suchitepéquez",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0101",
+      "full_name": "Anyelo Fernando Ramos Bautista",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Cabricán FC",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0102",
+      "full_name": "Luis Alexander Moscoso",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Santa Lucía",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
+      ]
+    },
+    {
+      "id": "GT-0103",
+      "full_name": "Walter Rodrigo Flores Torres",
+      "nationality": "Guatemala",
+      "birth_date": null,
+      "age_group_reference": "U20",
+      "real_world_club_reference": "Suchitepéquez",
+      "universe_start_club": null,
+      "source_ids": [
+        "S7"
       ]
     }
   ]
